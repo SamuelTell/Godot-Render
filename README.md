@@ -25,4 +25,7 @@ All you have to do is:
 - Press Play button to Start;
 - Close the window to stop;
 
-*PS.:* The export process generates a Sequence of numbered PNG files. But it's not as fast as playing and recording the screen, it's quite long actually. Only because generating a PNG file is time expensive, it's not exactly a Godot Engine issue.
+*PS.: The export process generates a Sequence of numbered PNG files. But it's not as fast as playing and recording the screen, it's quite long actually. Only because generating a PNG file is time expensive, it's not exactly a Godot Engine issue.*
+
+The first version of this script was developed with the help of this forum:
+https://godotengine.org/qa/61727/force-godot-play-constant-framerate-godot-renderer-animation
