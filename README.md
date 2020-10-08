@@ -2,7 +2,7 @@
 Simple script to export animation in Godot Game Engine in PNG sequence files with specified frame rate and resolution.
 
 # Main Goal
-This script is intended to help animators to render faster their works in a 3D environment. It doesn't matter if you create it in Godot or anywhere else.
+This script is intended to help animators to render faster their work in a 3D environment. It doesn't matter if you create it in Godot or anywhere else.
 
 This script generates pixel perfect animation renders every time. It means you can composite your renders in Godot with your renders from any other application using the same file. For example: When you want to render your character in Godot but the smoke, reflection pass, scenario in other applications.
 
